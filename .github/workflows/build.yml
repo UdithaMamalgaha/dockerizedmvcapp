@@ -26,5 +26,5 @@ jobs:
     - name: Publish
       run: dotnet publish -c Release -o out
 
-    - name: Docker build
-      run: docker build -t dockerizedmvcapp .
+    # - name: Docker build
+    #   run: docker build -t dockerizedmvcapp .

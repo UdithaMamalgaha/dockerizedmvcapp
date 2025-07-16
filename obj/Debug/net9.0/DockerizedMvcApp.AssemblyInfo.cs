@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DockerizedMvcApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62dc3785c6e15fbea409be3bbe034a26419f24c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43b229c23e356be45a3a5b54a495ba72ccd93ac1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DockerizedMvcApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DockerizedMvcApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
