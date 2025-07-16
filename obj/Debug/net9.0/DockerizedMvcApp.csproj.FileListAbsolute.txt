@@ -94,3 +94,4 @@ C:\Source\Intouch\DockerizedMvcApp\obj\Debug\net9.0\refint\DockerizedMvcApp.dll
 C:\Source\Intouch\DockerizedMvcApp\obj\Debug\net9.0\DockerizedMvcApp.pdb
 C:\Source\Intouch\DockerizedMvcApp\obj\Debug\net9.0\DockerizedMvcApp.genruntimeconfig.cache
 C:\Source\Intouch\DockerizedMvcApp\obj\Debug\net9.0\ref\DockerizedMvcApp.dll
+C:\Source\Intouch\DockerizedMvcApp\obj\Debug\net9.0\DockerizedMvcApp.sourcelink.json
